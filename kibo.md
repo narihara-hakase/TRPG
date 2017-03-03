@@ -11,5 +11,5 @@
 「お前はこのまま死霊の一部になりたいのかねぇ？？それとも蛮族共を死霊にしたいのかねぇ？？」
 少年はとある朝、農家から冒険者になった___。
 
-- PC3 [リサ（仮）](http://charasheet.vampire-blood.net/1097084)
+- PC3 [リサ（仮）](http://charasheet.vampire-blood.net/1097084)　種族：ルーンフォーク
 - PC4
