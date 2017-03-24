@@ -12,4 +12,8 @@
 少年はとある朝、農家から冒険者になった___。
 
 - PC3 [リサ（仮）](http://charasheet.vampire-blood.net/1097084)　種族：ルーンフォーク 秘書
-- PC4
+
+- PC4 [セリム](http://charasheet.vampire-blood.net/1147056) 種族:エルフ エステー
+
+- PC5 [リリィ](http://charasheet.vampire-blood.net/1147078) 種族：シャドウ rio
+- PC6
